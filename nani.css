@@ -1,0 +1,63 @@
+body{
+  
+  text-align: center;
+  
+  background-image: url(1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.navbar {
+  display: flex;
+  background-color: #333;
+  width: 30%;
+  float: right;
+}
+
+.navbar a {
+  
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Jokerman;
+  
+}
+
+.navbar a:hover {
+  background-color: green;
+  color: black;
+}
+#bahay {
+  color: orange;
+}
+
+#bahay:hover {
+   background-color: yellow;
+}
+
+#tv{
+color: blue;
+}
+
+#tv:hover {
+   background-color: red;
+}
+
+#ha{
+color: violet;
+}
+
+#ha:hover {
+   background-color: grey;
+}
+
+#hakdog{
+color: Aqua;
+}
+
+#hakdog:hover {
+   background-color: #008080;
+}
